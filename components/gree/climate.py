@@ -6,11 +6,11 @@ from esphome.components import climate, uart
 from esphome.const import (
     CONF_ID,
     CONF_SUPPORTED_PRESETS,
-    # CONF_SUPPORTED_SWING_MODES,
+    CONF_SUPPORTED_SWING_MODES,
 )
 from esphome.components.climate import (
     ClimatePreset,
-    # ClimateSwingMode,
+    ClimateSwingMode,
 )
 
 CODEOWNERS = ["@bekmansurov"]
