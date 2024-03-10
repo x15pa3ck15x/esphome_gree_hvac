@@ -12,7 +12,7 @@ packages:
   default: github://dudanov/esphome-packages/hardware/iot-uni-dongle/device.yaml
 
 external_components:
-  - source: github://bekmansurov/esphome_gree_hvac
+  - source: github://x15pa3ck15x/esphome_gree_hvac
     components: [ gree ]
     refresh: 0s
 
